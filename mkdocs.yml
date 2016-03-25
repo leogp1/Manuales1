@@ -1,0 +1,6 @@
+site_name: Manuales
+pages:
+- Escritorio: index.md
+- Portal: portal.md
+- Editor: editor.md
+- Instalacion: instalacion.md
